@@ -32,7 +32,7 @@ The portfolio is built using the following technologies:
 
 Hosted on [Vercel](https://vercel.com/) for seamless deployment and scalability.
 
----
+------
 
 ## Installation
 To run this project locally, follow these steps:
@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
      npm start
      ```
 
----
+------
 
 ## Usage
 - Visit the live site at [https://bishnoisunil.vercel.app/](https://bishnoisunil.vercel.app/) to explore my work.
