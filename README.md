@@ -6,8 +6,6 @@ Welcome to my personal portfolio project! This is a showcase of my skills, proje
 📂 **GitHub Repository**: [https://github.com/sunilkbishnoi/bishnoisunil](https://github.com/sunilkbishnoi/bishnoisunil)
 
 ## 
-
-
 ## About the Project
 This portfolio serves as a digital resume and a demonstration of my coding abilities. It highlights my projects, technical expertise, and a bit about me. The site is designed to be responsive, fast, and visually appealing, providing visitors with an intuitive experience.
 
