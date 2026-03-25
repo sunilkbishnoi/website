@@ -19,8 +19,7 @@ This portfolio serves as a digital resume and a demonstration of my coding abili
 - **Clean UI**: Minimalistic and modern design for easy navigation.
 - **Fast Load Times**: Optimized for performance and user experience.
 
-------------
-------------
+## 
 
 ## Tech Stack
 The portfolio is built using the following technologies:
